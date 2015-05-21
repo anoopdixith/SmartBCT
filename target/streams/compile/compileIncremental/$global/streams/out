@@ -1,0 +1,50 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/BuyCoin.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes/root/SellCoin.class, /home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes/root/Action.class, /home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes/root/BuyCoin.class, /home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes/root/MyAccount.class, /home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes/root/MyAccount$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/BuyCoin.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/BuyCoin.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala, /home/adixith/IdeaProjects/SmartBCT/src/main/scala/BuyCoin.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to /home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3e491569, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/resources.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/rt.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/sunrsasign.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/jsse.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/jce.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/charsets.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/lib/jfr.jar:/home/adixith/java_downloaded/jdk1.7.0_75/jre/classes:/home/adixith/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/adixith/IdeaProjects/SmartBCT/target/scala-2.11/classes:/home/adixith/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-1.1.4.jar:/home/adixith/.ivy2/cache/org.json4s/json4s-native_2.11/jars/json4s-native_2.11-3.2.10.jar:/home/adixith/.ivy2/cache/org.json4s/json4s-core_2.11/jars/json4s-core_2.11-3.2.10.jar:/home/adixith/.ivy2/cache/org.json4s/json4s-ast_2.11/jars/json4s-ast_2.11-3.2.10.jar:/home/adixith/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.6.jar:/home/adixith/.ivy2/cache/org.scala-lang/scalap/jars/scalap-2.11.0.jar:/home/adixith/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.0.jar:/home/adixith/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.0.jar:/home/adixith/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/home/adixith/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.252210386 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	account, <init>.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala: Set(account, <init>)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adixith/IdeaProjects/SmartBCT/src/main/scala/MyAccount.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	setProfit, getProfit, profit.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/adixith/IdeaProjects/SmartBCT/src/main/scala/BuyCoin.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/adixith/IdeaProjects/SmartBCT/src/main/scala/SellCoin.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/adixith/IdeaProjects/SmartBCT/src/main/scala/Decide.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala)[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adixith/IdeaProjects/SmartBCT/src/main/scala/Action.scala)[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
